@@ -25,6 +25,6 @@
 
      11.Result visualization
 
-2) Titanic Classification :A machine learning model on the Titanic dataset to predict whether a passenger on the Titanic would have been survived or not using the passenger data. If you want more details then click on link.
+2) Titanic Classification :A machine learning model on the Titanic dataset to predict whether a passenger on the Titanic would have been survived or not using the passenger data. 
 
 So the data has information about passengers on the Titanic, such as name , sex, age, survival, economic status(class), etc.
